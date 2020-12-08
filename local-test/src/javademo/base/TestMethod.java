@@ -1,6 +1,10 @@
 package javademo.base;
 
-//普通方法
+/**
+ * Title: 方法基础概念
+ * Description: 演示方法的基本操作及权限隔离
+ * Filename: TestMethod.java
+ */
 public class TestMethod {
 	public static void main(String[] args) {
 		Person ming = new Person();

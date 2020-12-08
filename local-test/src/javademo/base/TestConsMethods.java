@@ -1,6 +1,10 @@
 package javademo.base;
 
-//构造方法
+/**
+ * Title: 构造方法
+ * Description: 演示无参、多个参数构造方法以及构造方法复用
+ * Filename: TestConsMethod.java
+ */
 public class TestConsMethods {
 	public static void main(String[] args) {
 		ConsPerson ming = new ConsPerson("xiaoming", 28);

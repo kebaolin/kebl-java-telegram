@@ -4,6 +4,11 @@ import java.util.Arrays;
 import java.util.HashSet;
 import java.util.Set;
 
+/**
+ * Title: 数组操作
+ * Description: 演示如何操作数组，一维及多维数组转换为字符串
+ * Filename: TestArrays.java
+ */
 public class TestArrays {
 	public static void main(String[] args) {
 //		int[] ns = {1, 2, 3, 4, 5}; 

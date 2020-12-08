@@ -3,8 +3,8 @@ package javademo.base;
 
 /**
  * Title: 方法重载
- * Description: 演示方法重载
- *FileName: TestReloadMethod.java
+ * Description: 演示方法重载，相同的返回类型，不同的参数
+ * FileName: TestReloadMethod.java
  */
 public class TestReloadMethod {
 
