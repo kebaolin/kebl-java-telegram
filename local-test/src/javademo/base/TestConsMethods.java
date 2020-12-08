@@ -24,7 +24,8 @@ public class TestConsMethods {
 
 
 class ConsPerson{
-	private String name;
+//	private String name; //private不能被继承访问
+	protected String name;
 	private int age;
 	
 	public ConsPerson(String name, int age) {
