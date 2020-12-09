@@ -1,5 +1,10 @@
 package javademo.job;
 
+/**
+ * 多态练习作业
+ * @author yehongjuan
+ *
+ */
 public class ClassPolyJob {
 	public static void main(String[] args) {
 		Income[] incomes = new Income[] {
