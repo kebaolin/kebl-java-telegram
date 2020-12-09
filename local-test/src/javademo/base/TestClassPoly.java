@@ -41,6 +41,11 @@ class Income{
 	public double getTax() {
 		return income * 0.1; //10%
 	}
+	
+	//final修饰的方法不能被覆写
+//	public final double getTax() {
+//		return income * 0.1; //10%
+//	}
 }
 
 class Salary extends Income{
